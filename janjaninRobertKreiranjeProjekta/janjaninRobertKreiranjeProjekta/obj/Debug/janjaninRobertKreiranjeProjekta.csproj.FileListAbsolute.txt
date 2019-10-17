@@ -1,0 +1,7 @@
+C:\Users\Učenik 8\source\repos\janjaninRobertKreiranjeProjekta\janjaninRobertKreiranjeProjekta\bin\Debug\janjaninRobertKreiranjeProjekta.exe.config
+C:\Users\Učenik 8\source\repos\janjaninRobertKreiranjeProjekta\janjaninRobertKreiranjeProjekta\bin\Debug\janjaninRobertKreiranjeProjekta.exe
+C:\Users\Učenik 8\source\repos\janjaninRobertKreiranjeProjekta\janjaninRobertKreiranjeProjekta\bin\Debug\janjaninRobertKreiranjeProjekta.pdb
+C:\Users\Učenik 8\source\repos\janjaninRobertKreiranjeProjekta\janjaninRobertKreiranjeProjekta\obj\Debug\janjaninRobertKreiranjeProjekta.csprojAssemblyReference.cache
+C:\Users\Učenik 8\source\repos\janjaninRobertKreiranjeProjekta\janjaninRobertKreiranjeProjekta\obj\Debug\janjaninRobertKreiranjeProjekta.csproj.CoreCompileInputs.cache
+C:\Users\Učenik 8\source\repos\janjaninRobertKreiranjeProjekta\janjaninRobertKreiranjeProjekta\obj\Debug\janjaninRobertKreiranjeProjekta.exe
+C:\Users\Učenik 8\source\repos\janjaninRobertKreiranjeProjekta\janjaninRobertKreiranjeProjekta\obj\Debug\janjaninRobertKreiranjeProjekta.pdb
